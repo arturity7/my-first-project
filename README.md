@@ -1,2 +1,2 @@
 # my-first-project
-Este porjeto é extremamente simples, porém foi o primeiro em que eu aprendi!
+Este projeto é extremamente simples, porém foi o primeiro em que eu aprendi!
