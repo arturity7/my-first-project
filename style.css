@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body{
+    
+    text-align: center;
+      padding-top: 160px;
+    font-family: 'Spectral', serif;
+    background-image: url(https://i.ibb.co/yPv048P/beneficios-blueberry.jpg)
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  h1 span{
+    color: #00ffff;
+  }
+  h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Beth Ellen', cursive;
+  }
+  p{
+    opacity: .7;
+      padding-bottom: 80px;
+      color: white;
+  }
+  a{
+    font-size: 19px;
+    padding: 12px 32px;
+    color: white;
+  }
+  a:hover,
+  .btn-primary{
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+  border-radius: 12px;
+  }
